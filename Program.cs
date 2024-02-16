@@ -7,8 +7,8 @@ Console.WriteLine("<=== Welcome to Products Page ===>");
         {
             new Product(){PName="Hair Gel",PPrice=67,PBrand="SetWet",MfgDate=new DateTime(day:15,month:01,year:2012),ExpDate=new DateTime(day:15,month:12,year:2012)},
             new Product(){PName="Deodrant",PPrice=158,PBrand="Axe",MfgDate=new DateTime(day:28,month:01,year:2012),ExpDate=new DateTime(day:15,month:11,year:2012)},
-            new Product(){PName="Soapl",PPrice=31,PBrand="Santoor",MfgDate=new DateTime(day:06,month:06,year:2011),ExpDate=new DateTime(day:30,month:08,year:2012)},
-            new Product(){PName="Talk",PPrice=67,PBrand="Ponds",MfgDate=new DateTime(day:18,month:02,year:2012),ExpDate=new DateTime(day:31,month:12,year:2012)},
+            new Product(){PName="Soap",PPrice=31,PBrand="Santoor",MfgDate=new DateTime(day:06,month:06,year:2011),ExpDate=new DateTime(day:30,month:08,year:2012)},
+            new Product(){PName="Talc",PPrice=67,PBrand="Ponds",MfgDate=new DateTime(day:18,month:02,year:2012),ExpDate=new DateTime(day:31,month:12,year:2012)},
         };
   
         foreach (Product product in products)

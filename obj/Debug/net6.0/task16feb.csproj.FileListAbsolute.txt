@@ -12,3 +12,4 @@ C:\Users\moses\source\repos\task16feb\task16feb\obj\Debug\net6.0\refint\task16fe
 C:\Users\moses\source\repos\task16feb\task16feb\obj\Debug\net6.0\task16feb.pdb
 C:\Users\moses\source\repos\task16feb\task16feb\obj\Debug\net6.0\task16feb.genruntimeconfig.cache
 C:\Users\moses\source\repos\task16feb\task16feb\obj\Debug\net6.0\ref\task16feb.dll
+C:\Users\moses\source\repos\task16feb\task16feb\obj\Debug\net6.0\task16feb.sourcelink.json
